@@ -1,0 +1,37 @@
+{
+  "name": "pernotwebhook",
+  "version": "1.0.0",
+  "description": "Pernot Webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumerenard/pernotwebhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaumerenard/pernotwebhook/issues"
+  },
+  "homepage": "https://github.com/guillaumerenard/pernotwebhook#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "async": "^2.5.0",
+    "asyncawait": "^1.0.6",
+    "body-parser": "^1.18.2",
+    "botbuilder": "^3.11.0",
+    "express": "^4.16.2",
+    "json-bigint": "^0.2.3",
+    "request": "^2.83.0",
+    "restify": "^6.3.1",
+    "restify-plugins": "^1.6.0",
+    "unirest": "^0.5.1",
+    "uuid": "^3.1.0"
+  },
+  "engines": {
+    "node": "6.11.1"
+  }
+}
